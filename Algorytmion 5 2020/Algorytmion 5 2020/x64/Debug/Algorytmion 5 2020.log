@@ -1,0 +1,5 @@
+﻿  Źródło.cpp
+C:\Users\stach\OneDrive\Pulpit\cpp\Algorytmion 5 2020\Algorytmion 5 2020\Źródło.cpp(166,121): warning C4267: "inicjowanie": konwersja z "size_t" do "long", możliwa utrata danych
+C:\Users\stach\OneDrive\Pulpit\cpp\Algorytmion 5 2020\Algorytmion 5 2020\Źródło.cpp(166,145): warning C4267: "inicjowanie": konwersja z "size_t" do "long", możliwa utrata danych
+C:\Users\stach\OneDrive\Pulpit\cpp\Algorytmion 5 2020\Algorytmion 5 2020\Źródło.cpp(193,36): warning C4267: "inicjowanie": konwersja z "size_t" do "long", możliwa utrata danych
+  Algorytmion 5 2020.vcxproj -> C:\Users\stach\OneDrive\Pulpit\cpp\Algorytmion 5 2020\x64\Debug\Algorytmion 5 2020.exe
